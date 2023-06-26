@@ -12,7 +12,7 @@ HWID Spoofer 💡
 
 - This will change your device number and ID.
 - Disable your antivirus before use.(spoofer using windows exploits)
-- **(IMPORTANT) You must Run as administrator : bdx_hwi_spoofer.exe**
+- **(IMPORTANT) You must Run as administrator : release_x64.exe**
       
 ## What's Change
 
